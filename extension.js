@@ -98,7 +98,7 @@
       rulesLink: null,
       themeLink: null,
       fbLink: null,
-      youtubeLink: https://www.youtube.com/user/uncopy4you,
+      youtubeLink: "https://www.youtube.com/user/uncopy4you",
       website: null,
       intervalMessages: [],
       messageInterval: 5,

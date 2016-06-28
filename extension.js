@@ -104,7 +104,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: "http://officialwillfree.wix.com/uc4u",
       themeLink: null,
       fbLink: null,
       youtubeLink: "https://www.youtube.com/user/uncopy4you",

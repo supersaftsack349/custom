@@ -78,6 +78,8 @@
       usercommandsEnabled: true,
       skipPosition: 3,
       skipReasons: [
+      ["m8", "U kidding me, right? "],
+      ["troll", "Like... m9 just leave? "],
       ["theme", "This song does not fit the room theme. "],
       ["op", "This song is on the OP list. "],
       ["history", "This song is in the history. "],
